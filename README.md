@@ -1,9 +1,8 @@
 ### Hi there 👋
+## I am Amin Berjaoui Tahmaz!
 
 <!--
 **Amin-Berjaoui-Tahmaz/Amin-Berjaoui-Tahmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## I am Amin Berjaoui Tahmaz!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
