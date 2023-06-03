@@ -1,6 +1,10 @@
 ### Hello 👋
 ### I am Amin Berjaoui Tahmaz!
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Amin-Berjaoui-Tahmaz)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amin-berjaoui-tahmaz/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amine.berjawi123@gmail.com)
+
 <!--
 **Amin-Berjaoui-Tahmaz/Amin-Berjaoui-Tahmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
