@@ -11,10 +11,6 @@
 
 
 ### Recent Projects
-Tiago
-RRT
-SLAM
-Machine perception
 
 |TIAGo in a Retail Store: Organizing Products Based on their Attributes (using PDDL + ROSPlan) | Path Planning on Mobile Robot with 2-DoF Manipulator using Informed-RRT* |
 |---|---|
