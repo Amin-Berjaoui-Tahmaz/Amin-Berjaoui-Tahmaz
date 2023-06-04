@@ -12,7 +12,7 @@
 
 ### Recent Projects
 
-<div align="center">
+<div align="left">
 
 | Project Name                                                        |
 |--------------------------------------------------------------------|
