@@ -12,7 +12,7 @@
 
 ### Recent Projects
 
-|TIAGo in a Retail Store: Organizing Products Based on their Attributes (using PDDL + ROSPlan)|
+|:TIAGo in a Retail Store: Organizing Products Based on their Attributes (using PDDL + ROSPlan):|
 |:---:|
 <!-- <img src="./videos/MDP_project.gif" alt="005" style="zoom: 50%;" /> | <img src="./videos/CHRI_project.gif" alt="004" style="zoom: 50%;" /> | -->
 
