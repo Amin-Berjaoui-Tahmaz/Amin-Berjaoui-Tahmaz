@@ -10,6 +10,8 @@
 - 😄 I am currently actively looking for work in robotics positions!
 
 
+<!--
+
 ### Recent Projects
 
 <div align="left">
@@ -32,3 +34,5 @@
 | Museum Project | 3D Pedestrian Detector using LiDar for Region Proposals and Monocular Camera for Classification
 |---|---|
 <!-- <img src="./videos/PDM_project.gif" alt="005" style="zoom: 50%;" /> | <img src="./videos/MP_project.gif" alt="004" style="zoom: 50%;" /> | -->
+
+-->
