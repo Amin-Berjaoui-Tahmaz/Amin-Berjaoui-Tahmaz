@@ -5,10 +5,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amin-berjaoui-tahmaz/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amine.berjawi123@gmail.com)
 
-- 🌱 I’m currently a second year MSc Robotics student at [Technische Universiteit Delft (TU Delft)](https://www.tudelft.nl/en/). I finished my Bachelor's in Mechanical Engineering at [the American University of Beirut (AUB)](https://www.aub.edu.lb/).
-- 🔭 I'm working on my thesis topic: Hierarchical Reinforcement Learning for Sequential Manipulation Tasks.
-- 😄 I am currently actively looking for work in robotics positions!
-
+- 🌱 I work as an Embedded Computer Vision Engineer.
+- 🔭 I graduated with an MSc Robotics from [Technische Universiteit Delft (TU Delft)](https://www.tudelft.nl/en/) with my thesis "Hierarchical Reinforcement Learning for Sequential Contact Tasks".
 
 <!--
 
